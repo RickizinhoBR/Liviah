@@ -32,8 +32,8 @@ body {
 }
 #message {
     position: absolute;
-    top: 150px; /* posiciona o topo da div no centro vertical da tela */
-    left: 75%; /* posiciona a esquerda da div no centro horizontal da tela */
+    top: 200px; /* posiciona o topo da div no centro vertical da tela */
+    left: 50%; /* posiciona a esquerda da div no centro horizontal da tela */
     transform: translate(-50%, -50%); /* ajusta o centro da div */
     color: #fff;
     font-size: 18px;
