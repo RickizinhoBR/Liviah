@@ -16,6 +16,6 @@ onload = () => {
     }
 
     // Chama a função para escrever a mensagem letra por letra
-    const message = "Amor, quero muito, mas muito mesmo conversar sobre tudo contigo pessoalmente, mas não vou conseguir te ver esse final de semana, pense em tudo que a gente viveu e espere até eu conseguir te ver, eu não vou errar de novo";
+    const message = "Amor, quero muito, mas muito mesmo conversar sobre tudo contigo pessoalmente, mas não vou conseguir te ver esse final de semana. Pense em tudo que a gente viveu e espere até eu conseguir te ver. Eu não vou errar de novo  --João Pedro--";
     typeMessage('message', message, 100); // 100ms de atraso entre cada letra
 };
