@@ -31,6 +31,6 @@ document.getElementById("carta").addEventListener("click", function(event) {
     // Aguardar o tempo especificado antes de redirecionar
     setTimeout(function() {
       // Redirecionar para outra página
-      window.location.href = "../flower-by-my-love/flower.html";
-    }, 3000);
+      window.location.href = "https://rickizinhobr.github.io/Liviah/flower-by-my-love/flower.html";
+    }, 4000);
   });
